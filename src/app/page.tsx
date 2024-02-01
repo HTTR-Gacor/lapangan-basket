@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-    <main>GACOR CO</main>
-  );
+  return <main>GACOR CO</main>
 }
